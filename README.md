@@ -19,7 +19,7 @@ I'm a **Computer Engineering student** and the **CEO & Co-founder of Pryzmo**. I
 
 ## Building Pryzmo
 
-### [Pryzmo](https://pryzmo.ai) — AI-powered virtual try-on
+### [Pryzmo](https://pryzmo.ai): AI-powered virtual try-on
 
 We're helping shoppers see themselves wearing a garment before buying it, directly from a store's product page. Pryzmo brings together virtual try-on, size recommendations, and a merchant dashboard, with **Tiendanube integration available today**.
 
@@ -27,7 +27,7 @@ We train our own image-generation models. My work spans product, engineering, st
 
 ## Selected projects
 
-### [JEI — Just Enough IDE](https://github.com/maurild14/just-enough-ide)
+### [JEI: Just Enough IDE](https://github.com/maurild14/just-enough-ide)
 
 A file tree, project search, and Git panel alongside **Claude Code or OpenCode**. Follow the agent's activity, inspect files, review diffs, and manage commits without leaving the session.
 
@@ -45,8 +45,7 @@ An open-source civic-tech project for **AI-assisted public deliberation**, inspi
 
 **TypeScript · Next.js · Supabase · Claude**
 
-<details>
-<summary><strong>Tools &amp; technologies</strong></summary>
+## Tools & technologies
 
 | Area | Tools |
 | --- | --- |
@@ -55,5 +54,3 @@ An open-source civic-tech project for **AI-assisted public deliberation**, inspi
 | Backend & infrastructure | Node.js · Hono · PostgreSQL · Supabase · Git · Linux · Vercel · Spring Boot |
 | AI & machine learning | LangChain · LangGraph · Agent Workflows · MCPs · Agent Skills · Local Models · LoRA |
 | Development | Bun · Claude Code · Codex |
-
-</details>
