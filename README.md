@@ -39,6 +39,12 @@ Instagram carousels from a conversation. **Claude Code or Codex** designs the sl
 
 **TypeScript · Next.js · React · AI agents**
 
+### [short.it](https://github.com/maurild14/short.it)
+
+A local workspace for creating short-form videos with **Codex or Claude Code**. Bring references, narration, and music, refine the result on a canvas and timeline, and export MP4 through HyperFrames.
+
+**TypeScript · React · Node.js · HyperFrames**
+
 ### [DemocratIA](https://github.com/maurild14/democratia-builtopus4.7)
 
 An open-source civic-tech project for **AI-assisted public deliberation**, inspired by **[Google DeepMind's Habermas Machine](https://deepmind.google/research/publications/65220/)**. Geographic forums and AI-generated group syntheses help communities find common ground, preserve dissenting views, and turn discussions into proposals.
